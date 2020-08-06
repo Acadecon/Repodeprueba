@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.8)  6 AUG 2020 15:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.8)  6 AUG 2020 18:10
 entering extended mode
 **./primera.tex
 (primera.tex
@@ -31,7 +31,7 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count175
 \l__pdf_internal_box=\box45
 )
-No file primera.aux.
+(primera.aux)
 \openout1 = `primera.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -54,25 +54,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
-[1
+ (primera.bbl) [1
 
-{C:/Users/JoseMax/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(primera.aux) ) 
+{C:/Users/JoseMax/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (primera.
+aux) ) 
 Here is how much of TeX's memory you used:
- 407 strings out of 480892
- 6874 string characters out of 2908104
+ 418 strings out of 480892
+ 7086 string characters out of 2908104
  240494 words of memory out of 3000000
- 16366 multiletter control sequences out of 15000+200000
- 535978 words of font info for 36 fonts, out of 3000000 for 9000
+ 16371 multiletter control sequences out of 15000+200000
+ 536324 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  25i,6n,20p,155b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on primera.pdf (1 page, 43405 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on primera.pdf (1 page, 60449 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
